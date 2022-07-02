@@ -4,11 +4,13 @@ Your guide to contribute in &lt;insert-name> DAO.
 Welcome to <Name> DAO GitHub organization: 
 This guide is a walkthrough to the most important resources to help you get started and contributing to the organization.
 
-## Let's drop some links for you to understand the landscape.
+Let's drop some links for you to understand the landscape.
 
-### [Main Page Link] Here for you to get a clear view of the mission & vision.
+#### [Main Page Link] 
+Here for you to get a clear view of the mission & vision.
 
-### [Ongoing production projects Link] "Inside link to some part of the GitHub Organization."
+#### [Ongoing production projects Link] 
+"Inside link to some part of the GitHub Organization."
 Examples:
   * Front-End page. Focus on React and Typescript.
     * [Link 1]
@@ -23,7 +25,8 @@ Examples:
     * [Link 2]
     ...
     
-### [Discord Link] Ready to start shipping code? Join us, let's rock the Web3 party. Start by presenting yourself and next dive into "#dev channel".
+#### [Discord Link] 
+Ready to start shipping code? Join us, let's rock the Web3 party. Start by presenting yourself and next dive into "#dev channel".
 A buddy will be assigned for <time-frame> 2 weeks to help in your integration, feel free to ask questions, several of them.
 
 ### [Playground GitHub Projects] A set of repositories aimed for you to start contributing in a non production environment. Your first steps will be usually here:
