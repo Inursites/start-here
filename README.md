@@ -29,7 +29,8 @@ Examples:
 Ready to start shipping code? Join us, let's rock the Web3 party. Start by presenting yourself and next dive into "#dev channel".
 A buddy will be assigned for <time-frame> 2 weeks to help in your integration, feel free to ask questions, several of them.
 
-### [Playground GitHub Projects] A set of repositories aimed for you to start contributing in a non production environment. Your first steps will be usually here:
+#### [Playground GitHub Projects]
+A set of repositories aimed for you to start contributing in a non production environment. Your first steps will be usually here:
 Examples:
     * [Link 1] "Plus explanation of how to contribute"
     * [Link 2]
