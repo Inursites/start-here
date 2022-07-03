@@ -41,7 +41,7 @@ We encourage self projects and partnerships.
 Ready to start shipping code? Join us, let's rock the Web3 party. Start by presenting yourself and next dive into "#dev channel".
 A buddy will be assigned for <time-frame> 2 weeks to help in your integration, feel free to ask questions, several of them.
 
-DAO oeprating system:
+DAO operating system:
 Here You will find information about the teams inside the DAO:
 Example:
  * Council. 
