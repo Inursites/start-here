@@ -33,6 +33,10 @@ Link to guidelines, code of conduct, good practices.
 Link to guidelines, code of conduct, good practices.
 IMPORTANT: Since You have the full picture of your skills go throught the different github repos, read the readme, issues and pull request and understand where will be your skills best applied.
 
+#### Innovation.
+Do You have a killer idea? Ship the MVP with us and let's boost it.
+We encourage self projects and partnerships.
+
 #### [Discord Link] 
 Ready to start shipping code? Join us, let's rock the Web3 party. Start by presenting yourself and next dive into "#dev channel".
 A buddy will be assigned for <time-frame> 2 weeks to help in your integration, feel free to ask questions, several of them.
