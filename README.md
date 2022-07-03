@@ -55,11 +55,9 @@ Example:
 A set of repositories aimed for you to start contributing in a non production environment. Your first steps will be usually here:
 
 Examples:
-
-    * [Link 1] "Plus explanation of how to contribute"
-    
+    * [Link 1] 
     * [Link 2]
-    
+    "Plus explanation of how to contribute"
     ...
     
     
